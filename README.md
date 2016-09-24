@@ -18,5 +18,5 @@ Hosted at localhost:8080
 ###Authentication 
 	
    /auth 
-
+	Method
 	POST
