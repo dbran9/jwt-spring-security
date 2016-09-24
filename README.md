@@ -12,11 +12,11 @@ Hosted at localhost:8080
    /blogs
 
 	Methods
-            +GET 
-	    +POST
+        GET 
+	POST
    
 ###Authentication 
 	
    /auth 
 
-	+POST
+	POST
