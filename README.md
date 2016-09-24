@@ -2,6 +2,7 @@
 
 ## User Accounts
 user: user/password
+
 admin: admin:admin
 
 Hosted at localhost:8080
